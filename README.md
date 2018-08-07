@@ -1,6 +1,8 @@
 
 Hunt The Wumpus game created as the final project for my CS231: Data Structures and Algorithms course 
+
 Language: Java
+
 Fall 2016
 
 Introduction
